@@ -1,0 +1,23 @@
+{
+  "id": "3479827",
+  "name": "shop",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon-",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "6151363",
+      "name": "long-arrow-down",
+      "font_class": "long-arrow-down",
+      "unicode": "e83e",
+      "unicode_decimal": 59454
+    },
+    {
+      "icon_id": "6151364",
+      "name": "long-arrow-up",
+      "font_class": "long-arrow-up",
+      "unicode": "e83f",
+      "unicode_decimal": 59455
+    }
+  ]
+}
